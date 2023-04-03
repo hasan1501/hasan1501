@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasanpreet Singh</h1>
 <h3 align="center">A passionate full stack developer who likes to work on other projects on the side</h3>
 
-- 🔭 I’m currently working on **building Canada's best cloud bank at @neofinancial**
+- 🔭 I’m currently working on **building Canada's best cloud bank at [@neofinancial](https://github.com/neofinancial)**
 
 - 📫 How to reach me **hello@creatifig.com**
 
